@@ -11,7 +11,7 @@ class ThemeContextProvider extends React.Component {
     },
     darkTheme: {
       text: "#fff",
-      background: "5c5c5c",
+      background: "#5c5c5c",
     },
   };
 
